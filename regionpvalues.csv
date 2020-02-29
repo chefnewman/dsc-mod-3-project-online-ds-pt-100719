@@ -1,0 +1,19 @@
+,group1,group2,p-adj
+0,British Isles,Central America,0.0028
+1,British Isles,Scandinavia,0.0324
+2,British Isles,Southern Europe,0.0045
+3,British Isles,Western Europe,0.0496
+4,Central America,North America,0.001
+5,Central America,Northern Europe,0.001
+6,Central America,South America,0.0153
+7,Central America,Western Europe,0.001
+8,Eastern Europe,Western Europe,0.0346
+9,North America,Scandinavia,0.001
+10,North America,South America,0.0134
+11,North America,Southern Europe,0.001
+12,Northern Europe,Scandinavia,0.0021
+13,Northern Europe,Southern Europe,0.001
+14,Scandinavia,Western Europe,0.001
+15,South America,Southern Europe,0.0313
+16,South America,Western Europe,0.001
+17,Southern Europe,Western Europe,0.001
